@@ -1,0 +1,18 @@
+# ignore all except for source files and header files
+*.o
+*.d
+*.crf
+*.txt
+/*.IAB
+/*.IAD
+/*.IMB
+/*.IMD
+/*.PFI
+/*.PO
+/*.PR
+/*.PRI
+/*.PS
+/*.SearchResults
+/*.WK3
+!/.gitignore
+!/history.txt
